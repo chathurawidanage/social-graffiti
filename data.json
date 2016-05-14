@@ -1,0 +1,3939 @@
+{
+  "statuses": [
+    {
+      "created_at": "Sat May 14 04:19:30 +0000 2016",
+      "id": 731338119933366272,
+      "id_str": "731338119933366272",
+      "text": "RT @dingto: Cycles now supports single channel float textures, reducing memory usage!  https:\/\/t.co\/36vQ93VKzG #b3d #GSoC https:\/\/t.co\/CqCH\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "b3d",
+            "indices": [
+              111,
+              115
+            ]
+          },
+          {
+            "text": "GSoC",
+            "indices": [
+              116,
+              121
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dingto",
+            "name": "Thomas Dinges",
+            "id": 74763003,
+            "id_str": "74763003",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/36vQ93VKzG",
+            "expanded_url": "https:\/\/developer.blender.org\/rB4a4f043bc4235c046d2b58e00f2b80665ded11bf",
+            "display_url": "developer.blender.org\/rB4a4f043bc423\u2026",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 730488082596802561,
+            "id_str": "730488082596802561",
+            "indices": [
+              122,
+              140
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+            "url": "https:\/\/t.co\/CqCHyn3LY3",
+            "display_url": "pic.twitter.com\/CqCHyn3LY3",
+            "expanded_url": "http:\/\/twitter.com\/dingto\/status\/730488083544690688\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 417,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 237,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 690,
+                "h": 480,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 730488083544690688,
+            "source_status_id_str": "730488083544690688",
+            "source_user_id": 74763003,
+            "source_user_id_str": "74763003"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4636291628,
+        "id_str": "4636291628",
+        "name": "Ronnie Ashlock",
+        "screen_name": "RonnieAshlock",
+        "location": "Seattle, WA",
+        "description": "Games, art, code, OSes. Junk 'n' stuff.",
+        "url": "https:\/\/t.co\/rwpOYaPjID",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/rwpOYaPjID",
+                "expanded_url": "http:\/\/www.surlybird.com",
+                "display_url": "surlybird.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 44,
+        "friends_count": 224,
+        "listed_count": 4,
+        "created_at": "Wed Dec 23 08:53:47 +0000 2015",
+        "favourites_count": 707,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 129,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/680135976195239937\/d552wKHb_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/680135976195239937\/d552wKHb_normal.png",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed May 11 20:01:45 +0000 2016",
+        "id": 730488083544690688,
+        "id_str": "730488083544690688",
+        "text": "Cycles now supports single channel float textures, reducing memory usage!  https:\/\/t.co\/36vQ93VKzG #b3d #GSoC https:\/\/t.co\/CqCHyn3LY3",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "b3d",
+              "indices": [
+                99,
+                103
+              ]
+            },
+            {
+              "text": "GSoC",
+              "indices": [
+                104,
+                109
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/36vQ93VKzG",
+              "expanded_url": "https:\/\/developer.blender.org\/rB4a4f043bc4235c046d2b58e00f2b80665ded11bf",
+              "display_url": "developer.blender.org\/rB4a4f043bc423\u2026",
+              "indices": [
+                75,
+                98
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 730488082596802561,
+              "id_str": "730488082596802561",
+              "indices": [
+                110,
+                133
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+              "url": "https:\/\/t.co\/CqCHyn3LY3",
+              "display_url": "pic.twitter.com\/CqCHyn3LY3",
+              "expanded_url": "http:\/\/twitter.com\/dingto\/status\/730488083544690688\/photo\/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 600,
+                  "h": 417,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 237,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 690,
+                  "h": 480,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 74763003,
+          "id_str": "74763003",
+          "name": "Thomas Dinges",
+          "screen_name": "dingto",
+          "location": "",
+          "description": "Blender \/ Cycles developer, student, musician",
+          "url": "http:\/\/t.co\/8KDw5xhxxJ",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http:\/\/t.co\/8KDw5xhxxJ",
+                  "expanded_url": "http:\/\/dingto.org\/",
+                  "display_url": "dingto.org",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2744,
+          "friends_count": 183,
+          "listed_count": 122,
+          "created_at": "Wed Sep 16 15:55:01 +0000 2009",
+          "favourites_count": 1738,
+          "utc_offset": 7200,
+          "time_zone": "Berlin",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 3081,
+          "lang": "de",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/647025013133082624\/Engco5Hg_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/647025013133082624\/Engco5Hg_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/74763003\/1443097694",
+          "profile_link_color": "FA743E",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 62,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri May 13 16:12:38 +0000 2016",
+      "id": 731155198672920576,
+      "id_str": "731155198672920576",
+      "text": "RT @dingto: Cycles now supports single channel float textures, reducing memory usage!  https:\/\/t.co\/36vQ93VKzG #b3d #GSoC https:\/\/t.co\/CqCH\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "b3d",
+            "indices": [
+              111,
+              115
+            ]
+          },
+          {
+            "text": "GSoC",
+            "indices": [
+              116,
+              121
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dingto",
+            "name": "Thomas Dinges",
+            "id": 74763003,
+            "id_str": "74763003",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/36vQ93VKzG",
+            "expanded_url": "https:\/\/developer.blender.org\/rB4a4f043bc4235c046d2b58e00f2b80665ded11bf",
+            "display_url": "developer.blender.org\/rB4a4f043bc423\u2026",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 730488082596802561,
+            "id_str": "730488082596802561",
+            "indices": [
+              122,
+              140
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+            "url": "https:\/\/t.co\/CqCHyn3LY3",
+            "display_url": "pic.twitter.com\/CqCHyn3LY3",
+            "expanded_url": "http:\/\/twitter.com\/dingto\/status\/730488083544690688\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 417,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 237,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 690,
+                "h": 480,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 730488083544690688,
+            "source_status_id_str": "730488083544690688",
+            "source_user_id": 74763003,
+            "source_user_id_str": "74763003"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 703447103079583746,
+        "id_str": "703447103079583746",
+        "name": "ketblend",
+        "screen_name": "blenderketme",
+        "location": "India",
+        "description": "i am a #student & i'm #make #3d #animation!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 77,
+        "friends_count": 231,
+        "listed_count": 70,
+        "created_at": "Sat Feb 27 05:10:33 +0000 2016",
+        "favourites_count": 61,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1273,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FF6699",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/718278881359306752\/nkTeCFjP.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/718278881359306752\/nkTeCFjP.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/730000721773481984\/qVfFkoqd_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/730000721773481984\/qVfFkoqd_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/703447103079583746\/1459915924",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed May 11 20:01:45 +0000 2016",
+        "id": 730488083544690688,
+        "id_str": "730488083544690688",
+        "text": "Cycles now supports single channel float textures, reducing memory usage!  https:\/\/t.co\/36vQ93VKzG #b3d #GSoC https:\/\/t.co\/CqCHyn3LY3",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "b3d",
+              "indices": [
+                99,
+                103
+              ]
+            },
+            {
+              "text": "GSoC",
+              "indices": [
+                104,
+                109
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/36vQ93VKzG",
+              "expanded_url": "https:\/\/developer.blender.org\/rB4a4f043bc4235c046d2b58e00f2b80665ded11bf",
+              "display_url": "developer.blender.org\/rB4a4f043bc423\u2026",
+              "indices": [
+                75,
+                98
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 730488082596802561,
+              "id_str": "730488082596802561",
+              "indices": [
+                110,
+                133
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+              "url": "https:\/\/t.co\/CqCHyn3LY3",
+              "display_url": "pic.twitter.com\/CqCHyn3LY3",
+              "expanded_url": "http:\/\/twitter.com\/dingto\/status\/730488083544690688\/photo\/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 600,
+                  "h": 417,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 237,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 690,
+                  "h": 480,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 74763003,
+          "id_str": "74763003",
+          "name": "Thomas Dinges",
+          "screen_name": "dingto",
+          "location": "",
+          "description": "Blender \/ Cycles developer, student, musician",
+          "url": "http:\/\/t.co\/8KDw5xhxxJ",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http:\/\/t.co\/8KDw5xhxxJ",
+                  "expanded_url": "http:\/\/dingto.org\/",
+                  "display_url": "dingto.org",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2744,
+          "friends_count": 183,
+          "listed_count": 122,
+          "created_at": "Wed Sep 16 15:55:01 +0000 2009",
+          "favourites_count": 1738,
+          "utc_offset": 7200,
+          "time_zone": "Berlin",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 3081,
+          "lang": "de",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/647025013133082624\/Engco5Hg_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/647025013133082624\/Engco5Hg_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/74763003\/1443097694",
+          "profile_link_color": "FA743E",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 62,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri May 13 10:29:05 +0000 2016",
+      "id": 731068744538177536,
+      "id_str": "731068744538177536",
+      "text": "RT @ownClouders: #ownCloud has three awesome #GSOC students this year for the Mail &amp; Gallery apps &amp; our demo https:\/\/t.co\/ifjMUJbVTg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ownCloud",
+            "indices": [
+              17,
+              26
+            ]
+          },
+          {
+            "text": "GSOC",
+            "indices": [
+              45,
+              50
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ownClouders",
+            "name": "ownCloud community",
+            "id": 361140100,
+            "id_str": "361140100",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/ifjMUJbVTg",
+            "expanded_url": "http:\/\/ow.ly\/uX6d3008ruL",
+            "display_url": "ow.ly\/uX6d3008ruL",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 107838271,
+        "id_str": "107838271",
+        "name": "Jos Poortvliet",
+        "screen_name": "jospoortvliet",
+        "location": "Berlin, Germany",
+        "description": "People person, technology enthusiast and all-things-open evangelist.",
+        "url": "http:\/\/t.co\/BxJ9qN4SLt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http:\/\/t.co\/BxJ9qN4SLt",
+                "expanded_url": "http:\/\/about.me\/jospoortvliet",
+                "display_url": "about.me\/jospoortvliet",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1597,
+        "friends_count": 294,
+        "listed_count": 113,
+        "created_at": "Sat Jan 23 22:53:28 +0000 2010",
+        "favourites_count": 404,
+        "utc_offset": 7200,
+        "time_zone": "Berlin",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6224,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FDFDFD",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000096572443\/c6b58c88770ed41d67b62d7611d0b3e0.jpeg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000096572443\/c6b58c88770ed41d67b62d7611d0b3e0.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/463234146299432960\/it92oKXV_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/463234146299432960\/it92oKXV_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/107838271\/1400083394",
+        "profile_link_color": "2570A1",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B8EB75",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu May 12 13:38:11 +0000 2016",
+        "id": 730753943052165121,
+        "id_str": "730753943052165121",
+        "text": "#ownCloud has three awesome #GSOC students this year for the Mail &amp; Gallery apps &amp; our demo https:\/\/t.co\/ifjMUJbVTg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "ownCloud",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "text": "GSOC",
+              "indices": [
+                28,
+                33
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/ifjMUJbVTg",
+              "expanded_url": "http:\/\/ow.ly\/uX6d3008ruL",
+              "display_url": "ow.ly\/uX6d3008ruL",
+              "indices": [
+                100,
+                123
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 361140100,
+          "id_str": "361140100",
+          "name": "ownCloud community",
+          "screen_name": "ownClouders",
+          "location": "",
+          "description": "Open source self-hosted web apps with sync clients and sharing. Contribute at http:\/\/t.co\/J1dvQlZdZB, company at @ownCloud",
+          "url": "https:\/\/t.co\/vwUUI1y3lj",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/vwUUI1y3lj",
+                  "expanded_url": "https:\/\/ownCloud.org",
+                  "display_url": "ownCloud.org",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "http:\/\/t.co\/J1dvQlZdZB",
+                  "expanded_url": "http:\/\/github.com\/owncloud",
+                  "display_url": "github.com\/owncloud",
+                  "indices": [
+                    78,
+                    100
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 8677,
+          "friends_count": 99,
+          "listed_count": 304,
+          "created_at": "Wed Aug 24 09:33:55 +0000 2011",
+          "favourites_count": 366,
+          "utc_offset": 7200,
+          "time_zone": "Berlin",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2297,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1D2D42",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/631093348456132608\/yhqL7iLB_normal.png",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/631093348456132608\/yhqL7iLB_normal.png",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/361140100\/1441041192",
+          "profile_link_color": "1D2D42",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "EEEEEE",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri May 13 09:57:15 +0000 2016",
+      "id": 731060730229862400,
+      "id_str": "731060730229862400",
+      "text": "RT @dingto: Cycles now supports single channel float textures, reducing memory usage!  https:\/\/t.co\/36vQ93VKzG #b3d #GSoC https:\/\/t.co\/CqCH\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "b3d",
+            "indices": [
+              111,
+              115
+            ]
+          },
+          {
+            "text": "GSoC",
+            "indices": [
+              116,
+              121
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dingto",
+            "name": "Thomas Dinges",
+            "id": 74763003,
+            "id_str": "74763003",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/36vQ93VKzG",
+            "expanded_url": "https:\/\/developer.blender.org\/rB4a4f043bc4235c046d2b58e00f2b80665ded11bf",
+            "display_url": "developer.blender.org\/rB4a4f043bc423\u2026",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 730488082596802561,
+            "id_str": "730488082596802561",
+            "indices": [
+              122,
+              140
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+            "url": "https:\/\/t.co\/CqCHyn3LY3",
+            "display_url": "pic.twitter.com\/CqCHyn3LY3",
+            "expanded_url": "http:\/\/twitter.com\/dingto\/status\/730488083544690688\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 417,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 237,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 690,
+                "h": 480,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 730488083544690688,
+            "source_status_id_str": "730488083544690688",
+            "source_user_id": 74763003,
+            "source_user_id_str": "74763003"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 318296499,
+        "id_str": "318296499",
+        "name": "Alexander Stovpyaga",
+        "screen_name": "sanja100v",
+        "location": "St. Peterburg",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 13,
+        "friends_count": 64,
+        "listed_count": 0,
+        "created_at": "Thu Jun 16 07:55:30 +0000 2011",
+        "favourites_count": 5,
+        "utc_offset": 10800,
+        "time_zone": "Volgograd",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 248,
+        "lang": "ru",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/2221228555\/pbx2x9Jo_normal",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/2221228555\/pbx2x9Jo_normal",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed May 11 20:01:45 +0000 2016",
+        "id": 730488083544690688,
+        "id_str": "730488083544690688",
+        "text": "Cycles now supports single channel float textures, reducing memory usage!  https:\/\/t.co\/36vQ93VKzG #b3d #GSoC https:\/\/t.co\/CqCHyn3LY3",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "b3d",
+              "indices": [
+                99,
+                103
+              ]
+            },
+            {
+              "text": "GSoC",
+              "indices": [
+                104,
+                109
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/36vQ93VKzG",
+              "expanded_url": "https:\/\/developer.blender.org\/rB4a4f043bc4235c046d2b58e00f2b80665ded11bf",
+              "display_url": "developer.blender.org\/rB4a4f043bc423\u2026",
+              "indices": [
+                75,
+                98
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 730488082596802561,
+              "id_str": "730488082596802561",
+              "indices": [
+                110,
+                133
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiM3CnPWsAEDfap.jpg",
+              "url": "https:\/\/t.co\/CqCHyn3LY3",
+              "display_url": "pic.twitter.com\/CqCHyn3LY3",
+              "expanded_url": "http:\/\/twitter.com\/dingto\/status\/730488083544690688\/photo\/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 600,
+                  "h": 417,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 237,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 690,
+                  "h": 480,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 74763003,
+          "id_str": "74763003",
+          "name": "Thomas Dinges",
+          "screen_name": "dingto",
+          "location": "",
+          "description": "Blender \/ Cycles developer, student, musician",
+          "url": "http:\/\/t.co\/8KDw5xhxxJ",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http:\/\/t.co\/8KDw5xhxxJ",
+                  "expanded_url": "http:\/\/dingto.org\/",
+                  "display_url": "dingto.org",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2744,
+          "friends_count": 183,
+          "listed_count": 122,
+          "created_at": "Wed Sep 16 15:55:01 +0000 2009",
+          "favourites_count": 1738,
+          "utc_offset": 7200,
+          "time_zone": "Berlin",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 3081,
+          "lang": "de",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/647025013133082624\/Engco5Hg_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/647025013133082624\/Engco5Hg_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/74763003\/1443097694",
+          "profile_link_color": "FA743E",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 62,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri May 13 05:34:30 +0000 2016",
+      "id": 730994607509508096,
+      "id_str": "730994607509508096",
+      "text": "@marckhouzam I did that to easily share a classic eclipse ide configuration to help @rnavagamuwa for the #GSoC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GSoC",
+            "indices": [
+              105,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "marckhouzam",
+            "name": "Marc Khouzam",
+            "id": 39558491,
+            "id_str": "39558491",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "rnavagamuwa",
+            "name": "Randika Navagamuwa",
+            "id": 516362673,
+            "id_str": "516362673",
+            "indices": [
+              84,
+              96
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+      "in_reply_to_status_id": 730893574645137408,
+      "in_reply_to_status_id_str": "730893574645137408",
+      "in_reply_to_user_id": 39558491,
+      "in_reply_to_user_id_str": "39558491",
+      "in_reply_to_screen_name": "marckhouzam",
+      "user": {
+        "id": 147870495,
+        "id_str": "147870495",
+        "name": "Sun Seng David TAN",
+        "screen_name": "sunsengdavidtan",
+        "location": "Paris",
+        "description": "Java software developer @SerliFr. Codenvy\/Eclipse Che and Nuxeo contributor. OpenSource Minded.",
+        "url": "http:\/\/t.co\/69FA32lvZi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http:\/\/t.co\/69FA32lvZi",
+                "expanded_url": "http:\/\/sunix.org",
+                "display_url": "sunix.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 225,
+        "friends_count": 388,
+        "listed_count": 50,
+        "created_at": "Tue May 25 07:36:31 +0000 2010",
+        "favourites_count": 287,
+        "utc_offset": 7200,
+        "time_zone": "Paris",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1305,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/861643540\/233d1cf139e98ac4f4b6c10be1a7fa5e.png",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/861643540\/233d1cf139e98ac4f4b6c10be1a7fa5e.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/587540756526735362\/ysc9F-jz_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/587540756526735362\/ysc9F-jz_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/147870495\/1409822235",
+        "profile_link_color": "4E5C11",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri May 13 05:22:59 +0000 2016",
+      "id": 730991711728472064,
+      "id_str": "730991711728472064",
+      "text": "RT @ownClouders: #ownCloud has three awesome #GSOC students this year for the Mail &amp; Gallery apps &amp; our demo https:\/\/t.co\/ifjMUJbVTg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ownCloud",
+            "indices": [
+              17,
+              26
+            ]
+          },
+          {
+            "text": "GSOC",
+            "indices": [
+              45,
+              50
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ownClouders",
+            "name": "ownCloud community",
+            "id": 361140100,
+            "id_str": "361140100",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/ifjMUJbVTg",
+            "expanded_url": "http:\/\/ow.ly\/uX6d3008ruL",
+            "display_url": "ow.ly\/uX6d3008ruL",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 138516899,
+        "id_str": "138516899",
+        "name": "Raghu Nayyar",
+        "screen_name": "raghunayyar",
+        "location": "Internet",
+        "description": "Hustler @Cleartax_in | UX | Long term @ownCloud contributor | Previously @BrowserStack, @iit_idc, @gsoc 2013 & 2014 | Nerd",
+        "url": "https:\/\/t.co\/sGcsDj2ciO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/sGcsDj2ciO",
+                "expanded_url": "http:\/\/www.raghunayyar.com",
+                "display_url": "raghunayyar.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 381,
+        "friends_count": 131,
+        "listed_count": 30,
+        "created_at": "Thu Apr 29 19:42:12 +0000 2010",
+        "favourites_count": 903,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5586,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F2CEDF",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/371397288\/twitterbg.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/371397288\/twitterbg.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/537031362331422720\/dvFgc4Al_normal.jpeg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/537031362331422720\/dvFgc4Al_normal.jpeg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/138516899\/1417774069",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu May 12 13:38:11 +0000 2016",
+        "id": 730753943052165121,
+        "id_str": "730753943052165121",
+        "text": "#ownCloud has three awesome #GSOC students this year for the Mail &amp; Gallery apps &amp; our demo https:\/\/t.co\/ifjMUJbVTg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "ownCloud",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "text": "GSOC",
+              "indices": [
+                28,
+                33
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/ifjMUJbVTg",
+              "expanded_url": "http:\/\/ow.ly\/uX6d3008ruL",
+              "display_url": "ow.ly\/uX6d3008ruL",
+              "indices": [
+                100,
+                123
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 361140100,
+          "id_str": "361140100",
+          "name": "ownCloud community",
+          "screen_name": "ownClouders",
+          "location": "",
+          "description": "Open source self-hosted web apps with sync clients and sharing. Contribute at http:\/\/t.co\/J1dvQlZdZB, company at @ownCloud",
+          "url": "https:\/\/t.co\/vwUUI1y3lj",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/vwUUI1y3lj",
+                  "expanded_url": "https:\/\/ownCloud.org",
+                  "display_url": "ownCloud.org",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "http:\/\/t.co\/J1dvQlZdZB",
+                  "expanded_url": "http:\/\/github.com\/owncloud",
+                  "display_url": "github.com\/owncloud",
+                  "indices": [
+                    78,
+                    100
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 8677,
+          "friends_count": 99,
+          "listed_count": 304,
+          "created_at": "Wed Aug 24 09:33:55 +0000 2011",
+          "favourites_count": 366,
+          "utc_offset": 7200,
+          "time_zone": "Berlin",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2297,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1D2D42",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/631093348456132608\/yhqL7iLB_normal.png",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/631093348456132608\/yhqL7iLB_normal.png",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/361140100\/1441041192",
+          "profile_link_color": "1D2D42",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "EEEEEE",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri May 13 00:45:10 +0000 2016",
+      "id": 730921795298021376,
+      "id_str": "730921795298021376",
+      "text": "Need for review of garda\u2026 https:\/\/t.co\/KWSutiHP03 #Europe #anticorruption #corruption #garda #GSOC #GetUrRiskOn https:\/\/t.co\/S34OjJ3fcm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Europe",
+            "indices": [
+              50,
+              57
+            ]
+          },
+          {
+            "text": "anticorruption",
+            "indices": [
+              58,
+              73
+            ]
+          },
+          {
+            "text": "corruption",
+            "indices": [
+              74,
+              85
+            ]
+          },
+          {
+            "text": "garda",
+            "indices": [
+              86,
+              92
+            ]
+          },
+          {
+            "text": "GSOC",
+            "indices": [
+              93,
+              98
+            ]
+          },
+          {
+            "text": "GetUrRiskOn",
+            "indices": [
+              99,
+              111
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/KWSutiHP03",
+            "expanded_url": "http:\/\/dlvr.it\/LJ1lTS",
+            "display_url": "dlvr.it\/LJ1lTS",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 730921795084161024,
+            "id_str": "730921795084161024",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CiTBgAKVEAA2jyV.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiTBgAKVEAA2jyV.jpg",
+            "url": "https:\/\/t.co\/S34OjJ3fcm",
+            "display_url": "pic.twitter.com\/S34OjJ3fcm",
+            "expanded_url": "http:\/\/twitter.com\/anti_digest\/status\/730921795298021376\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 300,
+                "h": 169,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 300,
+                "h": 169,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 300,
+                "h": 169,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003edlvr.it\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4220627254,
+        "id_str": "4220627254",
+        "name": "AntiCorruptionDigest",
+        "screen_name": "anti_digest",
+        "location": "",
+        "description": "Anti Corruption Digest is the most comprehensive source for free global risk & compliance related news, insights, and best practices.",
+        "url": "https:\/\/t.co\/6atIRZ1J8k",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/6atIRZ1J8k",
+                "expanded_url": "http:\/\/anticorruptiondigest.com",
+                "display_url": "anticorruptiondigest.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1084,
+        "friends_count": 970,
+        "listed_count": 148,
+        "created_at": "Wed Nov 18 19:48:09 +0000 2015",
+        "favourites_count": 654,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7959,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/673910372022116352\/wJvw7dg0_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/673910372022116352\/wJvw7dg0_normal.png",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/4220627254\/1448217867",
+        "profile_link_color": "666666",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu May 12 21:47:45 +0000 2016",
+      "id": 730877146881630208,
+      "id_str": "730877146881630208",
+      "text": "My l\u03b9l \u0432ro \u0455ay \u03b9\u0442\u0455 gonna \u0432e a \u043cov\u03b9e \u0442\u043d\u03b9\u0455 Sa\u0442. PULLUP!!!!  #DONTBEAFRAID #BOUTDAT #GIG #GSOC https:\/\/t.co\/9MP4TLzNSn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "DONTBEAFRAID",
+            "indices": [
+              58,
+              71
+            ]
+          },
+          {
+            "text": "BOUTDAT",
+            "indices": [
+              72,
+              80
+            ]
+          },
+          {
+            "text": "GIG",
+            "indices": [
+              81,
+              85
+            ]
+          },
+          {
+            "text": "GSOC",
+            "indices": [
+              86,
+              91
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/9MP4TLzNSn",
+            "expanded_url": "https:\/\/www.instagram.com\/p\/BFUqTsllbRQ\/",
+            "display_url": "instagram.com\/p\/BFUqTsllbRQ\/",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 91751105,
+        "id_str": "91751105",
+        "name": "B.E.Z da BELIEF",
+        "screen_name": "BeZGIGent",
+        "location": "",
+        "description": "Independent artist and CEO of G.I.G entertainment based out of Huston TX.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 824,
+        "friends_count": 1083,
+        "listed_count": 9,
+        "created_at": "Sun Nov 22 08:26:07 +0000 2009",
+        "favourites_count": 108,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1461,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/135985851\/GTG-Logo.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/135985851\/GTG-Logo.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/587701130596974593\/st8x88qb_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/587701130596974593\/st8x88qb_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/91751105\/1428953899",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu May 12 21:46:56 +0000 2016",
+      "id": 730876940274520064,
+      "id_str": "730876940274520064",
+      "text": "RT @SFLinux: #GSoC It's Happning @SFLinux!\nNos stagiaires represent #ETSMTL #UQAM @maisondulogicie  sur @SRoulant &amp; @JoinTheRing https:\/\/t.\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GSoC",
+            "indices": [
+              13,
+              18
+            ]
+          },
+          {
+            "text": "ETSMTL",
+            "indices": [
+              68,
+              75
+            ]
+          },
+          {
+            "text": "UQAM",
+            "indices": [
+              76,
+              81
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SFLinux",
+            "name": "Savoir-faire Linux",
+            "id": 62647280,
+            "id_str": "62647280",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "SFLinux",
+            "name": "Savoir-faire Linux",
+            "id": 62647280,
+            "id_str": "62647280",
+            "indices": [
+              33,
+              41
+            ]
+          },
+          {
+            "screen_name": "maisondulogicie",
+            "name": "Maison du Logiciel",
+            "id": 126136429,
+            "id_str": "126136429",
+            "indices": [
+              82,
+              98
+            ]
+          },
+          {
+            "screen_name": "SRoulant",
+            "name": "Santropol Roulant",
+            "id": 209265386,
+            "id_str": "209265386",
+            "indices": [
+              104,
+              113
+            ]
+          },
+          {
+            "screen_name": "JoinTheRing",
+            "name": "Ring",
+            "id": 3015082107,
+            "id_str": "3015082107",
+            "indices": [
+              120,
+              132
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 730768576349491200,
+            "id_str": "730768576349491200",
+            "indices": [
+              143,
+              144
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CiQ2Jf5UUAAl7wI.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiQ2Jf5UUAAl7wI.jpg",
+            "url": "https:\/\/t.co\/Af7shHaM85",
+            "display_url": "pic.twitter.com\/Af7shHaM85",
+            "expanded_url": "http:\/\/twitter.com\/SFLinux\/status\/730768578442592256\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 730768578442592256,
+            "source_status_id_str": "730768578442592256",
+            "source_user_id": 62647280,
+            "source_user_id_str": "62647280"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2895407097,
+        "id_str": "2895407097",
+        "name": "WAN TAHIA",
+        "screen_name": "WanTahia",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 8,
+        "friends_count": 35,
+        "listed_count": 0,
+        "created_at": "Fri Nov 28 02:08:23 +0000 2014",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_2_normal.png",
+        "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_2_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu May 12 14:36:20 +0000 2016",
+        "id": 730768578442592256,
+        "id_str": "730768578442592256",
+        "text": "#GSoC It's Happning @SFLinux!\nNos stagiaires represent #ETSMTL #UQAM @maisondulogicie  sur @SRoulant &amp; @JoinTheRing https:\/\/t.co\/Af7shHaM85",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "GSoC",
+              "indices": [
+                0,
+                5
+              ]
+            },
+            {
+              "text": "ETSMTL",
+              "indices": [
+                55,
+                62
+              ]
+            },
+            {
+              "text": "UQAM",
+              "indices": [
+                63,
+                68
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "SFLinux",
+              "name": "Savoir-faire Linux",
+              "id": 62647280,
+              "id_str": "62647280",
+              "indices": [
+                20,
+                28
+              ]
+            },
+            {
+              "screen_name": "maisondulogicie",
+              "name": "Maison du Logiciel",
+              "id": 126136429,
+              "id_str": "126136429",
+              "indices": [
+                69,
+                85
+              ]
+            },
+            {
+              "screen_name": "SRoulant",
+              "name": "Santropol Roulant",
+              "id": 209265386,
+              "id_str": "209265386",
+              "indices": [
+                91,
+                100
+              ]
+            },
+            {
+              "screen_name": "JoinTheRing",
+              "name": "Ring",
+              "id": 3015082107,
+              "id_str": "3015082107",
+              "indices": [
+                107,
+                119
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 730768576349491200,
+              "id_str": "730768576349491200",
+              "indices": [
+                120,
+                143
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/media\/CiQ2Jf5UUAAl7wI.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiQ2Jf5UUAAl7wI.jpg",
+              "url": "https:\/\/t.co\/Af7shHaM85",
+              "display_url": "pic.twitter.com\/Af7shHaM85",
+              "expanded_url": "http:\/\/twitter.com\/SFLinux\/status\/730768578442592256\/photo\/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 768,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 255,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 450,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 62647280,
+          "id_str": "62647280",
+          "name": "Savoir-faire Linux",
+          "screen_name": "SFLinux",
+          "location": "Montr\u00e9al, Qu\u00e9bec",
+          "description": "We are the world of open source! Linux Android Liferay Odoo Alfresco BlueMind Python Drupal WordPress HTML5+ @JoinTheRing @sflinuxFR",
+          "url": "https:\/\/t.co\/Jg5G2qZKh7",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/Jg5G2qZKh7",
+                  "expanded_url": "http:\/\/www.savoirfairelinux.com",
+                  "display_url": "savoirfairelinux.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2662,
+          "friends_count": 999,
+          "listed_count": 222,
+          "created_at": "Mon Aug 03 23:00:38 +0000 2009",
+          "favourites_count": 787,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 5259,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "56AACD",
+          "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/463408300193619969\/bpg4fH3d.png",
+          "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/463408300193619969\/bpg4fH3d.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/685201204310216704\/lvEO1EZE_normal.png",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/685201204310216704\/lvEO1EZE_normal.png",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/62647280\/1455993661",
+          "profile_link_color": "56AACD",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "FFFFFF",
+          "profile_text_color": "006F82",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "36775d842cbec509",
+          "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/36775d842cbec509.json",
+          "place_type": "city",
+          "name": "Montr\u00e9al",
+          "full_name": "Montr\u00e9al, Qu\u00e9bec",
+          "country_code": "CA",
+          "country": "Canada",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -73.972965,
+                  45.410095
+                ],
+                [
+                  -73.473085,
+                  45.410095
+                ],
+                [
+                  -73.473085,
+                  45.705566
+                ],
+                [
+                  -73.972965,
+                  45.705566
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu May 12 20:52:21 +0000 2016",
+      "id": 730863204386144257,
+      "id_str": "730863204386144257",
+      "text": "RT @SvtigerStephane: Let's look back #GSOC #whitewash #guerin #whitewash #fennelly #whitewash #ohiggins #whitewash The country is safe &amp; we\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GSOC",
+            "indices": [
+              37,
+              42
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              43,
+              53
+            ]
+          },
+          {
+            "text": "guerin",
+            "indices": [
+              54,
+              61
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              62,
+              72
+            ]
+          },
+          {
+            "text": "fennelly",
+            "indices": [
+              73,
+              82
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              83,
+              93
+            ]
+          },
+          {
+            "text": "ohiggins",
+            "indices": [
+              94,
+              103
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              104,
+              114
+            ]
+          },
+          {
+            "text": "rtept",
+            "indices": [
+              143,
+              144
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SvtigerStephane",
+            "name": "StephV",
+            "id": 3047786710,
+            "id_str": "3047786710",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2766778483,
+        "id_str": "2766778483",
+        "name": "Mary O Riordan",
+        "screen_name": "MCOR1963",
+        "location": "Co Kerry",
+        "description": "Interested in current affairs and interesting opinions. Don't want to know what you had for breakfast!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 232,
+        "friends_count": 278,
+        "listed_count": 27,
+        "created_at": "Mon Aug 25 15:37:59 +0000 2014",
+        "favourites_count": 8754,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8039,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_0_normal.png",
+        "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_0_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu May 12 20:47:14 +0000 2016",
+        "id": 730861916667691008,
+        "id_str": "730861916667691008",
+        "text": "Let's look back #GSOC #whitewash #guerin #whitewash #fennelly #whitewash #ohiggins #whitewash The country is safe &amp; well covered up #rtept",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "GSOC",
+              "indices": [
+                16,
+                21
+              ]
+            },
+            {
+              "text": "whitewash",
+              "indices": [
+                22,
+                32
+              ]
+            },
+            {
+              "text": "guerin",
+              "indices": [
+                33,
+                40
+              ]
+            },
+            {
+              "text": "whitewash",
+              "indices": [
+                41,
+                51
+              ]
+            },
+            {
+              "text": "fennelly",
+              "indices": [
+                52,
+                61
+              ]
+            },
+            {
+              "text": "whitewash",
+              "indices": [
+                62,
+                72
+              ]
+            },
+            {
+              "text": "ohiggins",
+              "indices": [
+                73,
+                82
+              ]
+            },
+            {
+              "text": "whitewash",
+              "indices": [
+                83,
+                93
+              ]
+            },
+            {
+              "text": "rtept",
+              "indices": [
+                136,
+                142
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3047786710,
+          "id_str": "3047786710",
+          "name": "StephV",
+          "screen_name": "SvtigerStephane",
+          "location": "Dublin",
+          "description": "For 5 years Fine Gael & Labour have wrecked the lives of honest citizens The EU has proven it https:\/\/t.co\/6KF1BjjURz",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/6KF1BjjURz",
+                  "expanded_url": "http:\/\/ec.europa.eu\/europe2020\/pdf\/csr2016\/cr2016_ireland_en.pdf",
+                  "display_url": "ec.europa.eu\/europe2020\/pdf\u2026",
+                  "indices": [
+                    94,
+                    117
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 1001,
+          "friends_count": 942,
+          "listed_count": 79,
+          "created_at": "Fri Feb 20 19:24:51 +0000 2015",
+          "favourites_count": 31085,
+          "utc_offset": 3600,
+          "time_zone": "Dublin",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 42649,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/681943851670630402\/J56FeDTn_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/681943851670630402\/J56FeDTn_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3047786710\/1444218569",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu May 12 20:51:39 +0000 2016",
+      "id": 730863028179222528,
+      "id_str": "730863028179222528",
+      "text": "RT @SvtigerStephane: Let's look back #GSOC #whitewash #guerin #whitewash #fennelly #whitewash #ohiggins #whitewash The country is safe &amp; we\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GSOC",
+            "indices": [
+              37,
+              42
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              43,
+              53
+            ]
+          },
+          {
+            "text": "guerin",
+            "indices": [
+              54,
+              61
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              62,
+              72
+            ]
+          },
+          {
+            "text": "fennelly",
+            "indices": [
+              73,
+              82
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              83,
+              93
+            ]
+          },
+          {
+            "text": "ohiggins",
+            "indices": [
+              94,
+              103
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              104,
+              114
+            ]
+          },
+          {
+            "text": "rtept",
+            "indices": [
+              143,
+              144
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SvtigerStephane",
+            "name": "StephV",
+            "id": 3047786710,
+            "id_str": "3047786710",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4547971306,
+        "id_str": "4547971306",
+        "name": "TheMoriartyTribunal",
+        "screen_name": "berkieahern",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 932,
+        "friends_count": 1308,
+        "listed_count": 18,
+        "created_at": "Sun Dec 20 16:28:44 +0000 2015",
+        "favourites_count": 5709,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14850,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/720011580906348544\/n8hKV8Ee_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/720011580906348544\/n8hKV8Ee_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu May 12 20:47:14 +0000 2016",
+        "id": 730861916667691008,
+        "id_str": "730861916667691008",
+        "text": "Let's look back #GSOC #whitewash #guerin #whitewash #fennelly #whitewash #ohiggins #whitewash The country is safe &amp; well covered up #rtept",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "GSOC",
+              "indices": [
+                16,
+                21
+              ]
+            },
+            {
+              "text": "whitewash",
+              "indices": [
+                22,
+                32
+              ]
+            },
+            {
+              "text": "guerin",
+              "indices": [
+                33,
+                40
+              ]
+            },
+            {
+              "text": "whitewash",
+              "indices": [
+                41,
+                51
+              ]
+            },
+            {
+              "text": "fennelly",
+              "indices": [
+                52,
+                61
+              ]
+            },
+            {
+              "text": "whitewash",
+              "indices": [
+                62,
+                72
+              ]
+            },
+            {
+              "text": "ohiggins",
+              "indices": [
+                73,
+                82
+              ]
+            },
+            {
+              "text": "whitewash",
+              "indices": [
+                83,
+                93
+              ]
+            },
+            {
+              "text": "rtept",
+              "indices": [
+                136,
+                142
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3047786710,
+          "id_str": "3047786710",
+          "name": "StephV",
+          "screen_name": "SvtigerStephane",
+          "location": "Dublin",
+          "description": "For 5 years Fine Gael & Labour have wrecked the lives of honest citizens The EU has proven it https:\/\/t.co\/6KF1BjjURz",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "url": "https:\/\/t.co\/6KF1BjjURz",
+                  "expanded_url": "http:\/\/ec.europa.eu\/europe2020\/pdf\/csr2016\/cr2016_ireland_en.pdf",
+                  "display_url": "ec.europa.eu\/europe2020\/pdf\u2026",
+                  "indices": [
+                    94,
+                    117
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 1001,
+          "friends_count": 942,
+          "listed_count": 79,
+          "created_at": "Fri Feb 20 19:24:51 +0000 2015",
+          "favourites_count": 31085,
+          "utc_offset": 3600,
+          "time_zone": "Dublin",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 42649,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/681943851670630402\/J56FeDTn_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/681943851670630402\/J56FeDTn_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3047786710\/1444218569",
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu May 12 20:47:14 +0000 2016",
+      "id": 730861916667691008,
+      "id_str": "730861916667691008",
+      "text": "Let's look back #GSOC #whitewash #guerin #whitewash #fennelly #whitewash #ohiggins #whitewash The country is safe &amp; well covered up #rtept",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GSOC",
+            "indices": [
+              16,
+              21
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              22,
+              32
+            ]
+          },
+          {
+            "text": "guerin",
+            "indices": [
+              33,
+              40
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              41,
+              51
+            ]
+          },
+          {
+            "text": "fennelly",
+            "indices": [
+              52,
+              61
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              62,
+              72
+            ]
+          },
+          {
+            "text": "ohiggins",
+            "indices": [
+              73,
+              82
+            ]
+          },
+          {
+            "text": "whitewash",
+            "indices": [
+              83,
+              93
+            ]
+          },
+          {
+            "text": "rtept",
+            "indices": [
+              136,
+              142
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3047786710,
+        "id_str": "3047786710",
+        "name": "StephV",
+        "screen_name": "SvtigerStephane",
+        "location": "Dublin",
+        "description": "For 5 years Fine Gael & Labour have wrecked the lives of honest citizens The EU has proven it https:\/\/t.co\/6KF1BjjURz",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/6KF1BjjURz",
+                "expanded_url": "http:\/\/ec.europa.eu\/europe2020\/pdf\/csr2016\/cr2016_ireland_en.pdf",
+                "display_url": "ec.europa.eu\/europe2020\/pdf\u2026",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1001,
+        "friends_count": 942,
+        "listed_count": 79,
+        "created_at": "Fri Feb 20 19:24:51 +0000 2015",
+        "favourites_count": 31085,
+        "utc_offset": 3600,
+        "time_zone": "Dublin",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 42649,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+        "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme6\/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/681943851670630402\/J56FeDTn_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/681943851670630402\/J56FeDTn_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3047786710\/1444218569",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu May 12 20:11:11 +0000 2016",
+      "id": 730852846397231104,
+      "id_str": "730852846397231104",
+      "text": "RT @dingto: And another 1\/4th memory usage for single channel byte textures (e.g. Bump or Spec Maps). https:\/\/t.co\/NAXij4OtKf #b3d #Cycles\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "b3d",
+            "indices": [
+              126,
+              130
+            ]
+          },
+          {
+            "text": "Cycles",
+            "indices": [
+              131,
+              138
+            ]
+          },
+          {
+            "text": "GSoC",
+            "indices": [
+              138,
+              139
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dingto",
+            "name": "Thomas Dinges",
+            "id": 74763003,
+            "id_str": "74763003",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https:\/\/t.co\/NAXij4OtKf",
+            "expanded_url": "https:\/\/developer.blender.org\/rB3c85e1ca1a916fe2ded9ab508f4cd55a2ee22549",
+            "display_url": "developer.blender.org\/rB3c85e1ca1a91\u2026",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/mvilla.it\/fenix\" rel=\"nofollow\"\u003eFenix for Android\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 26967911,
+        "id_str": "26967911",
+        "name": "Greg Zaal",
+        "screen_name": "GregZaal",
+        "location": "South Africa",
+        "description": "CG artist and general nerd",
+        "url": "http:\/\/t.co\/Mo2zGd1khp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http:\/\/t.co\/Mo2zGd1khp",
+                "expanded_url": "http:\/\/adaptivesamples.com",
+                "display_url": "adaptivesamples.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1138,
+        "friends_count": 112,
+        "listed_count": 46,
+        "created_at": "Fri Mar 27 07:32:07 +0000 2009",
+        "favourites_count": 1022,
+        "utc_offset": -7200,
+        "time_zone": "Greenland",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 787,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/616260157832429568\/2zNsOLvZ.png",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/616260157832429568\/2zNsOLvZ.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/623031015166967808\/n-YyFlMG_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/623031015166967808\/n-YyFlMG_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/26967911\/1396983359",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu May 12 12:58:16 +0000 2016",
+        "id": 730743899766067200,
+        "id_str": "730743899766067200",
+        "text": "And another 1\/4th memory usage for single channel byte textures (e.g. Bump or Spec Maps). https:\/\/t.co\/NAXij4OtKf #b3d #Cycles #GSoC",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "b3d",
+              "indices": [
+                114,
+                118
+              ]
+            },
+            {
+              "text": "Cycles",
+              "indices": [
+                119,
+                126
+              ]
+            },
+            {
+              "text": "GSoC",
+              "indices": [
+                127,
+                132
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https:\/\/t.co\/NAXij4OtKf",
+              "expanded_url": "https:\/\/developer.blender.org\/rB3c85e1ca1a916fe2ded9ab508f4cd55a2ee22549",
+              "display_url": "developer.blender.org\/rB3c85e1ca1a91\u2026",
+              "indices": [
+                90,
+                113
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 74763003,
+          "id_str": "74763003",
+          "name": "Thomas Dinges",
+          "screen_name": "dingto",
+          "location": "",
+          "description": "Blender \/ Cycles developer, student, musician",
+          "url": "http:\/\/t.co\/8KDw5xhxxJ",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http:\/\/t.co\/8KDw5xhxxJ",
+                  "expanded_url": "http:\/\/dingto.org\/",
+                  "display_url": "dingto.org",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2744,
+          "friends_count": 183,
+          "listed_count": 122,
+          "created_at": "Wed Sep 16 15:55:01 +0000 2009",
+          "favourites_count": 1738,
+          "utc_offset": 7200,
+          "time_zone": "Berlin",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 3081,
+          "lang": "de",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/647025013133082624\/Engco5Hg_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/647025013133082624\/Engco5Hg_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/74763003\/1443097694",
+          "profile_link_color": "FA743E",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu May 12 17:49:44 +0000 2016",
+      "id": 730817247644680193,
+      "id_str": "730817247644680193",
+      "text": "Special delivery from @gsoc today for my @fedora project this summer. :) #GSoC #GSoC16 #Ansible https:\/\/t.co\/lBsrUU6kBt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GSoC",
+            "indices": [
+              73,
+              78
+            ]
+          },
+          {
+            "text": "GSoC16",
+            "indices": [
+              79,
+              86
+            ]
+          },
+          {
+            "text": "Ansible",
+            "indices": [
+              87,
+              95
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gsoc",
+            "name": "Summer of Code",
+            "id": 22564445,
+            "id_str": "22564445",
+            "indices": [
+              22,
+              27
+            ]
+          },
+          {
+            "screen_name": "fedora",
+            "name": "Fedora Project",
+            "id": 150621067,
+            "id_str": "150621067",
+            "indices": [
+              41,
+              48
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 730817246541406209,
+            "id_str": "730817246541406209",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CiRiaefUYAEaY7e.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiRiaefUYAEaY7e.jpg",
+            "url": "https:\/\/t.co\/lBsrUU6kBt",
+            "display_url": "pic.twitter.com\/lBsrUU6kBt",
+            "expanded_url": "http:\/\/twitter.com\/jflory7\/status\/730817247644680193\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 387,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 219,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 661,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 130690431,
+        "id_str": "130690431",
+        "name": "Justin W. Flory",
+        "screen_name": "jflory7",
+        "location": "Rochester, NY",
+        "description": "Student @ Rochester Institute of Technology | Owner of @CrystalCraft_MC | Moderator of @Spigot_MC | @Fedora contributor and user",
+        "url": "https:\/\/t.co\/vZ1wV3TQhn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/vZ1wV3TQhn",
+                "expanded_url": "http:\/\/justinwflory.com",
+                "display_url": "justinwflory.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 340,
+        "friends_count": 69,
+        "listed_count": 26,
+        "created_at": "Thu Apr 08 01:13:11 +0000 2010",
+        "favourites_count": 4248,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1460,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "5900FF",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/441571041\/DefaultDesktop.jpg",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/441571041\/DefaultDesktop.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/706991400169160704\/9seP0q77_normal.jpg",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/706991400169160704\/9seP0q77_normal.jpg",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/130690431\/1427816547",
+        "profile_link_color": "8C00FF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu May 12 17:39:35 +0000 2016",
+      "id": 730814691728084992,
+      "id_str": "730814691728084992",
+      "text": "RT @JoinTheRing: #GSoC Ring accueille la rel\u00e8ve \u00e9tudiante! @etsmtl @UQAM @ML2 Missions:Chartes graphiques, int\u00e9gration GPU&amp; API https:\/\/t.c\u2026",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GSoC",
+            "indices": [
+              17,
+              22
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JoinTheRing",
+            "name": "Ring",
+            "id": 3015082107,
+            "id_str": "3015082107",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "etsmtl",
+            "name": "\u00c9TS",
+            "id": 92287080,
+            "id_str": "92287080",
+            "indices": [
+              59,
+              66
+            ]
+          },
+          {
+            "screen_name": "UQAM",
+            "name": "UQAM",
+            "id": 14389790,
+            "id_str": "14389790",
+            "indices": [
+              67,
+              72
+            ]
+          },
+          {
+            "screen_name": "ml2",
+            "name": "ml2",
+            "id": 17858712,
+            "id_str": "17858712",
+            "indices": [
+              73,
+              77
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 730809164562235392,
+            "id_str": "730809164562235392",
+            "indices": [
+              143,
+              144
+            ],
+            "media_url": "http:\/\/pbs.twimg.com\/media\/CiRbECxVAAAmIqs.jpg",
+            "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiRbECxVAAAmIqs.jpg",
+            "url": "https:\/\/t.co\/QlN31obK4f",
+            "display_url": "pic.twitter.com\/QlN31obK4f",
+            "expanded_url": "http:\/\/twitter.com\/JoinTheRing\/status\/730809166483357696\/photo\/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 730809166483357696,
+            "source_status_id_str": "730809166483357696",
+            "source_user_id": 3015082107,
+            "source_user_id_str": "3015082107"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 62647280,
+        "id_str": "62647280",
+        "name": "Savoir-faire Linux",
+        "screen_name": "SFLinux",
+        "location": "Montr\u00e9al, Qu\u00e9bec",
+        "description": "We are the world of open source! Linux Android Liferay Odoo Alfresco BlueMind Python Drupal WordPress HTML5+ @JoinTheRing @sflinuxFR",
+        "url": "https:\/\/t.co\/Jg5G2qZKh7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https:\/\/t.co\/Jg5G2qZKh7",
+                "expanded_url": "http:\/\/www.savoirfairelinux.com",
+                "display_url": "savoirfairelinux.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2662,
+        "friends_count": 999,
+        "listed_count": 222,
+        "created_at": "Mon Aug 03 23:00:38 +0000 2009",
+        "favourites_count": 787,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5259,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "56AACD",
+        "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/463408300193619969\/bpg4fH3d.png",
+        "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/463408300193619969\/bpg4fH3d.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/685201204310216704\/lvEO1EZE_normal.png",
+        "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/685201204310216704\/lvEO1EZE_normal.png",
+        "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/62647280\/1455993661",
+        "profile_link_color": "56AACD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "006F82",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu May 12 17:17:37 +0000 2016",
+        "id": 730809166483357696,
+        "id_str": "730809166483357696",
+        "text": "#GSoC Ring accueille la rel\u00e8ve \u00e9tudiante! @etsmtl @UQAM @ML2 Missions:Chartes graphiques, int\u00e9gration GPU&amp; API https:\/\/t.co\/QlN31obK4f",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "GSoC",
+              "indices": [
+                0,
+                5
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "etsmtl",
+              "name": "\u00c9TS",
+              "id": 92287080,
+              "id_str": "92287080",
+              "indices": [
+                42,
+                49
+              ]
+            },
+            {
+              "screen_name": "UQAM",
+              "name": "UQAM",
+              "id": 14389790,
+              "id_str": "14389790",
+              "indices": [
+                50,
+                55
+              ]
+            },
+            {
+              "screen_name": "ml2",
+              "name": "ml2",
+              "id": 17858712,
+              "id_str": "17858712",
+              "indices": [
+                56,
+                60
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 730809164562235392,
+              "id_str": "730809164562235392",
+              "indices": [
+                115,
+                138
+              ],
+              "media_url": "http:\/\/pbs.twimg.com\/media\/CiRbECxVAAAmIqs.jpg",
+              "media_url_https": "https:\/\/pbs.twimg.com\/media\/CiRbECxVAAAmIqs.jpg",
+              "url": "https:\/\/t.co\/QlN31obK4f",
+              "display_url": "pic.twitter.com\/QlN31obK4f",
+              "expanded_url": "http:\/\/twitter.com\/JoinTheRing\/status\/730809166483357696\/photo\/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 768,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 450,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 255,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "fr",
+          "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3015082107,
+          "id_str": "3015082107",
+          "name": "Ring",
+          "screen_name": "JoinTheRing",
+          "location": "Montr\u00e9al, Qu\u00e9bec",
+          "description": "The distributed and secure free software for multimedia communication which runs under the radar of Big Brother. By @sflinux and the GPLv3 community.",
+          "url": "http:\/\/t.co\/yCi7ZgdZk9",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http:\/\/t.co\/yCi7ZgdZk9",
+                  "expanded_url": "http:\/\/ring.cx",
+                  "display_url": "ring.cx",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 417,
+          "friends_count": 21,
+          "listed_count": 18,
+          "created_at": "Tue Feb 03 19:23:45 +0000 2015",
+          "favourites_count": 74,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 198,
+          "lang": "fr",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/709464029333315585\/ApbiP0h-_normal.jpg",
+          "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/709464029333315585\/ApbiP0h-_normal.jpg",
+          "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3015082107\/1458056248",
+          "profile_link_color": "56B0C9",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "36775d842cbec509",
+          "url": "https:\/\/api.twitter.com\/1.1\/geo\/id\/36775d842cbec509.json",
+          "place_type": "city",
+          "name": "Montr\u00e9al",
+          "full_name": "Montr\u00e9al, Qu\u00e9bec",
+          "country_code": "CA",
+          "country": "Canada",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -73.972965,
+                  45.410095
+                ],
+                [
+                  -73.473085,
+                  45.410095
+                ],
+                [
+                  -73.473085,
+                  45.705566
+                ],
+                [
+                  -73.972965,
+                  45.705566
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.063,
+    "max_id": 731338119933366272,
+    "max_id_str": "731338119933366272",
+    "next_results": "?max_id=730814691728084991&q=%23gsoc&include_entities=1",
+    "query": "%23gsoc",
+    "refresh_url": "?since_id=731338119933366272&q=%23gsoc&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
